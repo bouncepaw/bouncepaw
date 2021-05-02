@@ -7,7 +7,7 @@ I'm a programmer, I guess.
 * [Les Arbres](https://lesarbr.es)
 * [Telegram blog](https://t.me/bpblog)
 * [GitHub Pages blog](https://bouncepaw.github.io). Deprecated.
-* [Tanelorn gemlog)(gemini://tanelorn.city/~bouncepaw). Deprecated
+* [Tanelorn gemlog](gemini://tanelorn.city/~bouncepaw). Deprecated
 
 ## Software projects
 * [MycorrhizaWiki](https://mycorrhiza.lesarbr.es)
