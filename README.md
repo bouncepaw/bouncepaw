@@ -12,6 +12,7 @@ I'm a programmer, I guess.
 ## Software projects
 * [MycorrhizaWiki](https://mycorrhiza.lesarbr.es)
   * [Mycomarkup library](https://github.com/bouncepaw/mycomarkup)
+  * [Example wiki](https://github.com/bouncepaw/example-wiki) (use as a template)
 * Keyboards ([read more](https://klavarog.tk/page/u/bouncepaw/клавиатуры)
   * [Wakizashi](https://github.com/bouncepaw/wakizashi)
   * [Sequira](https://github.com/bouncepaw/sequira)
