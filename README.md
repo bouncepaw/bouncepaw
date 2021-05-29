@@ -20,8 +20,8 @@ I'm a programmer, I guess.
 * You can also browse the repositories I have
 
 ## Wikis I contribute to
-* [MycorrhizaWiki](https://mycorrhiza.lesarbr.es)
-* [Klavarog wiki](https://klavarog.tk)
+* [Mycorrhiza Wiki](https://mycorrhiza.lesarbr.es)
+* [Klavarog Wiki](https://klavarog.tk)
 * [CommunityWiki](https://communitywiki.org)
 * [MeatballWiki](http://meatballwiki.org)
 * A couple of private wikis
