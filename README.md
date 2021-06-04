@@ -1,5 +1,9 @@
+<img src="https://raw.githubusercontent.com/bouncepaw/bouncepaw/main/userpic.jpeg" alt="An image of a mushroom" width="300">
+
 # bouncepaw
-![An image of a mushroom](https://raw.githubusercontent.com/bouncepaw/bouncepaw/main/userpic.jpeg)
+
+[![Bouncepaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouncepaw)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I'm a programmer, I guess.
 
