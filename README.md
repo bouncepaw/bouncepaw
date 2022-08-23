@@ -6,6 +6,8 @@
 
 I'm a programmer, I guess.
 
+The stuff here is slowly being moved to SourceHut. I will leave like 6 repos here. See [~bouncepaw](https://sr.ht/~bouncepaw).
+
 ## Find me
 * [Les Arbres](https://lesarbr.es)
 * [Digital garden](https://melanocarpa.lesarbr.es) (multi-language)
@@ -15,7 +17,7 @@ I'm a programmer, I guess.
 
 ## Software projects
 * [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) ([wiki](https://mycorrhiza.wiki))
-  * [Mycomarkup library](https://github.com/bouncepaw/mycomarkup)
+  * [Mycomarkup library](https://sr.ht/~bouncepaw/mycomarkup) (SourceHut)
 * Keyboards ([read more](https://klavarog.tk/page/u/bouncepaw/клавиатуры))
   * [Wakizashi](https://github.com/bouncepaw/wakizashi)
   * [Sequira](https://github.com/bouncepaw/sequira)
