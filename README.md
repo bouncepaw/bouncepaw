@@ -8,6 +8,9 @@ The stuff here is slowly being moved to SourceHut. I will leave like 6 repos her
 * [My website](https://bouncepaw.com)
 * [Digital garden](https://garden.bouncepaw.com) (multi-language)
   * More info there
+  * Running Mycorrhiza!
+* [My bookmarks](https://links.bouncepaw.com) (multi-language)
+  * Running Betula!
 * [Telegram channel](https://t.me/bpblog) (Russian)
 * [Sourcehut](https://sr.ht/~bouncepaw/)
 
